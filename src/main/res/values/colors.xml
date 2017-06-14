@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="movieListRowTitle">#404040</color>
+    <color name="movieListRowSub">#919191</color>
+    <color name="movieDetailsInfoBackground">#FFFFFF</color>
+    <color name="movieDetailsInfoTitle">#606060</color>
+    <color name="movieDetailsInfoData">#888888</color>
+    <color name="movieDetailsSimilarBackground">#E1E1E1</color>
+    <color name="black">#ff000000</color>
+    <string name="relatedMovies">RELATED MOVIES</string>
+</resources>

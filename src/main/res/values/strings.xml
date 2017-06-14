@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="search_hint">Search for movies</string>
+    <string name="app_label">movies</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_search">Search</string>
+    <string name="timeout">Connection timed out, please try again</string>
+    <string name="nomoreresults">No more results.</string>
+    <string name="noConnection">Unable to fetch data from server.</string>
+    <string name="loadingMore">Loading more…</string>
+</resources>
